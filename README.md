@@ -1,4 +1,4 @@
-# wabot-aq
+# RULTZ
 
 Simple WhatsApp Bot
 
